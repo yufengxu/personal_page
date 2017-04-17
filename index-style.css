@@ -1,0 +1,12 @@
+md-nav-bar .md-nav-item{
+    background-color: yellow;
+    margin: auto;
+}
+
+md-nav-bar .md-nav-bar{
+    height: 10vh;
+}
+
+.flex-container{
+    height: 90vh;
+}
